@@ -1,6 +1,5 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-costa-petroni-analista-desenvolvedor-java-full-stack/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-costa-petroni-analista-desenvolvedor-java-full-stack/) 
 
 # 💻 Tech Stack:
