@@ -1,6 +1,6 @@
 # 👔 **Rodrigo Costa Petroni** 
 ## 🇧🇷 Sobre mim: 
-### Olá, me chamo Rodrigo Costa Petroni, tenho 20 anos e sou um estudante da faculdade FIAP. Sou um amante de tecnologia e quero seguir minha vida dentro da área de desenvolvimento!
+### Olá, me chamo Rodrigo Costa Petroni, tenho 22 anos e sou um estudante da faculdade FIAP. Sou um amante de tecnologia e quero seguir minha vida dentro da área de desenvolvimento!
 ## 🎮 Hobbies:
 * ### Amo jogar jogos no computador 💻
 * ### Amo tocar guitarra 🎸
@@ -18,7 +18,7 @@
 
 
 ## 🇺🇸 About me: 
-### Hello, my name is Rodrigo Costa Petroni, I'm 20 years old and I'm a student at FIAP College. I'm a technology lover and I want to pursue my life in the development area!
+### Hello, my name is Rodrigo Costa Petroni, I'm 22 years old and I'm a student at FIAP College. I'm a technology lover and I want to pursue my life in the development area!
 ## 🎮 Hobbies: 
 * ### I love to play games on the computer when I have time to 💻
 * ### I love to play guitar 🎸
