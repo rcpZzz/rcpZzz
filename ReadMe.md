@@ -1,4 +1,4 @@
-# 👔 **Rodrigo Costa Petroni** 
+# 👔 **Rodrigo Costa Petroni Santos** 
 ## 🇧🇷 Sobre mim: 
 ### Olá, me chamo Rodrigo Costa Petroni, tenho 22 anos e sou um estudante da faculdade FIAP. Sou um amante de tecnologia e quero seguir minha vida dentro da área de desenvolvimento!
 ## 🎮 Hobbies:
